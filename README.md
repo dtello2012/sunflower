@@ -12,5 +12,5 @@ Download or clone the repository of the project
 $ python mindstorm.py
 ```
 
-Running that command on the terminal will open a browser and display the site. You can click on the box art / poster image to play the trailer.
+Running that command on the terminal will open a a window and draw a sunflower using Turtle
 
